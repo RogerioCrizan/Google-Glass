@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro Repositório do curso de Git e Github
+# Olá, Mundo!
+ Este foi o meu primeiro projeto desenvolvido para estudos de HTML, CSS e JavaScript!
